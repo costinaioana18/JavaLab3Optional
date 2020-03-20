@@ -18,7 +18,11 @@ Am utilizat aceleasi date oferite si pe site-ul laboratorului, si am ajuns la ac
 Dupa rularea programului, mi se va afisa:
 
 We added GUN . 
+
 We added Dragon Rising .   //items urile adaugate
+
 We added Cabbage . 
+
 Total value= 19          //valoarea totala a obiectelor din rucsac dupa algortmul greedy
+
 Total used weight= 10   // capacitatea utilizata
